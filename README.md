@@ -1,4 +1,4 @@
-![Jamal](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![Jamal](https://github.com/JamalAboAsy/cv/blob/main/images/jamal.png)
 
 
 # Weather ☁
@@ -23,4 +23,4 @@ A weather application to find out the live weather data in the current location 
 - Able to use the Geolocator package to get live location data for both iOS and Android.
 
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![End Banner](https://github.com/JamalAboAsy/cv/blob/main/images/jamal.png)
